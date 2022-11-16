@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Suigetsu
-                                                               to be updated soon.
+Bio to be updated soon. For now, enjoy this cool badge.
 
 <!---
 Suigetsu/Suigetsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
