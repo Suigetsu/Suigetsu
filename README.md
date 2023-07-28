@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/medlagrini" target="blank"><img src="https://img.shields.io/twitter/follow/medlagrini?logo=twitter&style=for-the-badge" alt="medlagrini" /></a> </p>
 
-- 🔭 I’m currently working on **Minishell**
+- 🔭 I’m currently working on **NetPractice, C++ Modules and Cub3D**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Low level languages**
 
 - 📫 How to reach me **lagmed.019@gmail.com**
 
